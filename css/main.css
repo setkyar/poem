@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #212221;
+}
+p {
+	font-size: 22px;
+}
+.title {
+	font-size: 40px;
+}
+.text {
+	color: #fff;
+	margin: 0 auto;
+    max-width: 800px;
+    padding: 7em;
+    letter-spacing: 1px;
+}
+
+#poem1 {
+
+}
